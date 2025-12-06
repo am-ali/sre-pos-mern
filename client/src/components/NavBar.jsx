@@ -8,7 +8,6 @@ export default function NavBar() {
     <div className="card" style={{ marginBottom: 16 }}>
       <div className="flex-between">
         <div className="flex" style={{ gap: 8 }}>
-          <span className="badge">SRE POS</span>
           <Link to="/" className="badge">
             Cashier
           </Link>
