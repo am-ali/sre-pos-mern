@@ -1,0 +1,725 @@
+
+
+
+1002 SkirtSteak 1 15.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 1 15.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 1 15.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 1 15.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 1 15.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 1 15.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 1 15.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 1 15.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 1 15.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 1 15.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 1 15.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 1 15.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 1 15.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 1 15.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 1 15.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 1 15.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 1 15.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 1 15.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 1 15.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 1 15.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 1 15.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 1 15.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 1 15.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 1 15.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 1 15.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+
+
+1002 SkirtSteak 2 30.0
+
+
+1002 SkirtSteak 2 30.0
+

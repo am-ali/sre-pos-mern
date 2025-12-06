@@ -41,6 +41,8 @@ async function addLine(req, res) {
     cart.lines.push({ item: item._id, qty, priceAtAdd: item.price });
   }
   await cart.save();
+  // Populate item details for response
+  await cart.populate('lines.item');
   res.json(cart);
 }
 
@@ -50,6 +52,8 @@ async function removeLine(req, res) {
   if (!cart) return res.status(404).json({ message: 'Cart not found' });
   cart.lines = cart.lines.filter((l) => l.item.toString() !== itemId);
   await cart.save();
+  // Populate item details for response
+  await cart.populate('lines.item');
   res.json(cart);
 }
 
@@ -65,6 +69,8 @@ async function applyCoupon(req, res) {
   }
   cart.couponCode = coupon.code;
   await cart.save();
+  // Populate item details for response
+  await cart.populate('lines.item');
   res.json(cart);
 }
 

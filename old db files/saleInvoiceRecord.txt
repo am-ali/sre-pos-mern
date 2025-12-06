@@ -1,0 +1,108 @@
+2015-11-17 20:33:06.997
+1002 SkirtSteak 3 45.0
+Total with tax: 47.7
+2015-11-17 20:34:29.595
+1002 SkirtSteak 1 15.0
+Total with tax: 15.9
+2015-11-17 20:34:32.464
+Total with tax: 15.9
+2015-11-17 20:34:39.862
+Total with tax: 15.9
+2015-11-17 20:35:13.027
+1002 SkirtSteak 2 30.0
+Total with tax: 31.8
+2015-11-17 20:37:55.949
+Total with tax: 15.9
+2015-11-17 20:58:15.281
+1000 Potato 2 2.0
+Total with tax: 2.12
+2015-11-17 22:59:56.529
+1020 BabyFormula 2 4.400000095367432
+Total with tax: 4.664000101089478
+2015-11-17 23:02:25.834
+1019 Seafood 2 20.0
+Total with tax: 21.200000000000003
+2015-11-17 23:11:33.093
+1021 CornSyrup 1 1.0
+Total with tax: 1.06
+2015-11-17 23:14:23.604
+1024 Bacon 1 5.5
+Total with tax: 5.83
+2015-11-17 23:28:46.873
+1023 SeasoningMix 1 8.800000190734863
+Total with tax: 9.328000202178956
+2015-11-19 20:38:47.725
+1000 Potato 1 1.0
+Total with tax: 1.06
+2015-11-19 20:51:34.957
+1002 SkirtSteak 2 30.0
+Total with tax: 31.8
+2015-11-19 21:01:35.685
+1001 PlasticCup 2 1.0
+Total with tax: 1.06
+2015-11-19 21:31:14.815
+1000 Potato 2 2.0
+Total with tax: 2.12
+2015-11-19 22:10:37.933
+1001 PlasticCup 1 0.5
+Total with tax: 0.53
+2015-11-19 22:12:04.565
+1001 PlasticCup 1 0.5
+Total with tax: 0.53
+2015-11-19 22:15:57.651
+1001 PlasticCup 1 0.5
+Total with tax: 0.53
+2015-11-19 22:21:00.638
+1011 Corn 1 2.0
+Total with tax: 2.12
+2015-11-19 22:22:46.240
+1001 PlasticCup 1 0.5
+Total with tax: 0.53
+
+2015-11-20 14:33:41.035
+1020 BabyFormula 2 4.400000095367432
+1080 Tuna 3 21.0
+1087 VegetablesFrozen 3 13.5
+Total with tax: 41.23400010108948
+2019-03-11 20:04:56.465
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+Total with tax: -79.5
+2019-03-11 20:04:56.475
+Total with tax: 0.0
+2019-03-11 20:05:02.457
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+Total with tax: -79.5
+2019-03-11 20:05:02.467
+Total with tax: 0.0
+2019-03-11 20:05:07.278
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+Total with tax: -79.5
+2019-03-11 20:05:07.295
+Total with tax: 0.0
+2019-03-11 20:17:42.472
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+Total with tax: -79.5
+2019-03-11 20:17:42.482
+Total with tax: 0.0
+2019-03-11 20:27:00.658
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+Total with tax: -79.5
+2019-03-11 20:27:00.667
+Total with tax: 0.0
+2019-03-11 20:30:35.124
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+Total with tax: -79.5
+2019-03-11 20:30:35.136
+Total with tax: 0.0
+2024-09-17 16:42:59.816
+1001 PlasticCup 2 1.0
+1003 PotatoChips 4 4.800000190734863
+Total with tax: -79.5
+2024-09-17 16:42:59.818
+Total with tax: 0.0

@@ -1,9 +1,14 @@
 # Dependencies
-node_modules/
+server/node_modules/
+client/node_modules/
 package-lock.json
 yarn.lock
 
 # Environment variables
+client/src/.env
+client/src/.env.local
+server/src/.env
+server/src/.env.local
 .env
 .env.local
 .env.*.local
